@@ -4,9 +4,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 // THIS IMPORT IS FOR ALL PAGES
 import { HomePage, CategoryPage, ErrorPage, MealDetailPage } from './pages/index';
-
-//THIS IMPORT IS FOR COMPONENTS
-
 import Header from './components/Header/Header'
 import Sidebar from './components/Sidebar/Sidebar'
 
