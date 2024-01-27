@@ -6,9 +6,9 @@ function Header() {
     <header className='header'>
       <Navbar />
       <div className='d-flex flex-column justify-content-center align-items-center vh-50 banner'>
+        <h1 className='fw-semibold text-center'>What are your favorite <br/> cuisines?</h1>
+        <p className='text-uppercase lh-lg'>Personalize your experience</p>
         <SearchForm />
-        <h1 className='Fw-semibold lh-lg'>What are your favorite cuisines?</h1>
-        <p className='text-uppercase my-3 lh-base'>Personalize your experience</p>
       </div>
     </header>
   )

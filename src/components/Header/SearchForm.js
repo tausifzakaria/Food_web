@@ -10,7 +10,7 @@ function SearchForm() {
         id="search"
         placeholder="Search reciepes here...."
       />
-      <button className='btn btn-dark'>
+      <button className='btn btn-warning'>
         <i className='fa-solid fa-search'></i>
       </button>
     </form>
